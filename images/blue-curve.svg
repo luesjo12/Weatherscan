@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" preserveAspectRatio="none" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#001782;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M117.9,384C117.9,171.9,294,0,511.2,0H0v768h511.2C294,768,117.9,596.1,117.9,384z"/>
+	</g>
+	<g>
+		<path class="st0" d="M511.2,0c217.2,0,393.3,171.9,393.3,384S728.4,768,511.2,768H1024V0H511.2z"/>
+	</g>
+</g>
+</svg>

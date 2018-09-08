@@ -1,0 +1,679 @@
+1.mp3,one degree
+10.mp3,ten degrees
+100.mp3,one hundred degrees
+101.mp3,one hundred one degrees
+102.mp3,one hundred two degrees
+103.mp3,one hundred three degrees
+104.mp3,one hundred four degrees
+105.mp3,one hundred five degrees
+106.mp3,one hundred six degrees
+107.mp3,one hundred seven degrees
+108.mp3,one hundred eight degrees
+109.mp3,one hundred nine degrees
+11.mp3,eleven degrees
+110.mp3,one hundred ten degrees
+111.mp3,one hundred eleven degrees
+112.mp3,one hundred twelve degrees
+113.mp3,one hundred thirteen degrees
+114.mp3,one hundred fourteen degrees
+115.mp3,one hundred fifteen degrees
+116.mp3,one hundred sixty degrees
+117.mp3,one hundred seventeen degrees
+118.mp3,one hundred eighteen degrees
+119.mp3,one hundred nineteen degrees
+12.mp3,twelve degrees
+120.mp3,one hundred twenty degrees
+121.mp3,one hundred twenty one degrees
+122.mp3,one hundred twenty two degrees
+123.mp3,one hundred twenty three degrees
+124.mp3,one hundred twenty four degrees
+125.mp3,one hundred twenty five degrees
+126.mp3,one hundred twenty six degrees
+127.mp3,one hundred twenty seven degrees
+128.mp3,one hundred twenty eight degrees
+129.mp3,one hundred twenty nine degrees
+13.mp3,thirteen degrees
+130.mp3,one hundred thirty degrees
+131.mp3,one hundred thirty one degrees
+132.mp3,one hundred thirty two degrees
+133.mp3,one hundred thirty three degrees
+134.mp3,one hundred thirty four degrees
+135.mp3,one hundred thirty five degrees
+136.mp3,one hundred thirty six degrees
+137.mp3,one hundred thirty seven degrees
+138.mp3,one hundred thirty eight degrees
+139.mp3,one hundred thirty nine degrees
+14.mp3,fourteen degrees
+15.mp3,fifteen degrees
+16.mp3,sixteen degrees
+17.mp3,seventeen degrees
+18.mp3,eighteen degrees
+19.mp3,nineteen degrees
+1s.mp3,one degrees
+2.mp3,two degrees
+20.mp3,twenty degrees
+21.mp3,twenty one degrees
+22.mp3,twenty two degrees
+23.mp3,twenty three degrees
+24.mp3,twenty four degrees
+25.mp3,twenty five degrees
+26.mp3,twenty six degrees
+27.mp3,twenty seven degrees
+28.mp3,twenty eight degrees
+29.mp3,twenty nine degrees
+3.mp3,three degrees
+30.mp3,thirty degrees
+31.mp3,thirty one degrees
+32.mp3,thirty two degrees
+33.mp3,thirty three degrees
+34.mp3,thirty four degrees
+35.mp3,thirty five degrees
+36.mp3,thirty six degrees
+37.mp3,thirty seven degrees
+38.mp3,thirty eight degrees
+39.mp3,thirty nine degrees
+4.mp3,four degrees
+40.mp3,forty degrees
+41.mp3,forty one degrees
+42.mp3,forty two degrees
+43.mp3,forty three degrees
+44.mp3,forty four degrees
+45.mp3,forty five degrees
+46.mp3,forty six degrees
+47.mp3,forty seven degrees
+48.mp3,forty eight degrees
+49.mp3,forty nine degrees
+5.mp3,five degrees
+50.mp3,fifty degrees
+51.mp3,fifty one degrees
+52.mp3,fifty two degrees
+53.mp3,fifty three degrees
+54.mp3,fifty four degrees
+55.mp3,fifty five degrees
+56.mp3,fifty six degrees
+57.mp3,fifty seven degrees
+58.mp3,fifty eight degrees
+59.mp3,fifty nine degrees
+6.mp3,six degrees
+60.mp3,sixty degrees
+61.mp3,sixty one degrees
+62.mp3,sixty two degrees
+63.mp3,sixty three degrees
+64.mp3,sixty four degrees
+65.mp3,sixty five degrees
+66.mp3,sixty six degrees
+67.mp3,sixty seven degrees
+68.mp3,sixty eight degrees
+69.mp3,sixty nine degrees
+7.mp3,seventy degrees
+70.mp3,seventy degrees
+71.mp3,seventy one degrees
+72.mp3,seventy two degrees
+73.mp3,seventy three degrees
+74.mp3,seventy four degrees
+75.mp3,seventy five degrees
+76.mp3,seventy six degrees
+77.mp3,seventy seven degrees
+78.mp3,seventy eight degrees
+79.mp3,seventy nine degrees
+8.mp3,eight degrees
+80.mp3,eighty degrees
+81.mp3,eighty one degrees
+82.mp3,eighty two degrees
+83.mp3,eighty three degrees
+84.mp3,eighty four degrees
+85.mp3,eighty five degrees
+86.mp3,eighty six degrees
+87.mp3,eighty seven degrees
+88.mp3,eighty eight degrees
+89.mp3,eighty nine degrees
+9.mp3,nine degrees
+90.mp3,ninety degrees
+91.mp3,ninety one degrees
+92.mp3,ninety two degrees
+93.mp3,ninety three degrees
+94.mp3,ninety four degrees
+95.mp3,ninety five degrees
+96.mp3,ninety six degrees
+97.mp3,ninety seven degrees
+98.mp3,ninety eight degrees
+99.mp3,ninety nine degrees
+CC1000.mp3,with freezing rain
+CC1001.mp3,with some freezing rain
+CC1002.mp3,with heavy freezing rain
+CC1010.mp3,with rain and freezing rain
+CC1100.mp3,with showers
+CC1101.mp3,with light rain
+CC1102.mp3,with heavy rain
+CC1172.mp3,with heavy rain and windy conditions
+CC1200.mp3,with rainy conditions
+CC1212.mp3,with heavy sleet and freezing rain
+CC1231.mp3,with rain and some freezing rain
+CC1232.mp3,with heavy rain and freezing rain
+CC1310.mp3,with some snow flurries
+CC1312.mp3,with snow showers
+CC1402.mp3,with heavy snow
+CC1472.mp3,with heavy snow and windy conditions
+CC1500.mp3,with blowing snow
+CC1501.mp3,with drifting snow
+CC1509.mp3,with blowing snow in the area
+CC1600.mp3,with snow
+CC1601.mp3,with light snow
+CC1630.mp3,with snow and thunder
+CC1632.mp3,with heavy snow and thunder
+CC1730.mp3,with a strong thunderstorm and hail
+CC1800.mp3,with sleet
+CC1802.mp3,with heavy sleet
+CC1811.mp3,with sleet and thunder
+CC1832.mp3,with heavy sleet and thunder
+CC1900.mp3,with blowing dust
+CC1910.mp3,with blowing sand
+CC1919.mp3,with blowing sand in the area
+CC1929.mp3,with a sandstorm in the area
+CC1939.mp3,with a dust storm in the area
+CC2000.mp3,with foggy conditions
+CC2100.mp3,under hazy skies
+CC2200.mp3,under smoky skies
+CC2410.mp3,with windy conditions
+CC2510.mp3,with ice crystals
+CC2600.mp3,under cloudy skies
+CC2680.mp3,with showers in the area
+CC2681.mp3,with showers in the area and foggy conditions
+CC2690.mp3,under cloudy skies with windy conditions
+CC2700.mp3,under mostly cloudy skies
+CC2785.mp3,with showers in the area and windy conditions
+CC2790.mp3,under mostly cloudy skies with windy conditions
+CC2900.mp3,under partly cloudy skies
+CC2990.mp3,under partly cloudy skies with windy conditions
+CC3100.mp3,under clear skies
+CC3190.mp3,under clear skies with windy conditions
+CC3200.mp3,under sunny skies
+CC3290.mp3,under sunny skies with windy conditions
+CC3390.mp3,under fair skies with windy conditions
+CC3400.mp3,under fair skies
+CC400.mp3,with a thunderstorm
+CC402.mp3,with a heavy thunderstorm
+CC422.mp3,with a strong thunderstorm
+CC429.mp3,with thunderstorms in the area
+CC500.mp3,with rain and snow
+CC600.mp3,with rain and sleet
+CC610.mp3,with sleet and freezing rain
+CC700.mp3,with snow and sleet
+CC710.mp3,with snow and freezing rain
+CC711.mp3,with light snow and freezing rain
+CC720.mp3,with a mixture of wintry precipitation
+CC730.mp3,with a wintry mix and thunder
+CC800.mp3,with freezing drizzle
+CC801.mp3,with some freezing drizzle
+CC900.mp3,with drizzle
+CC901.mp3,with light drizzle
+CC910.mp3,with drizzle and foggy conditions
+CCDUST.mp3,with a dust storm nearby
+CCEF1000.mp3,with some freezing rain
+CCEF1100.mp3,with showers
+CCEF1200.mp3,with rainy conditions
+CCEF1201.mp3,with a light rain
+CCEF1211.mp3,with light rain
+CCEF1270.mp3,with thunderstorms
+CCEF1300.mp3,with some snow flurries
+CCEF1400.mp3,with snow showers
+CCEF1600.mp3,with snow
+CCEF1601.mp3,with light snow
+CCEF1800.mp3,with sleet
+CCEF2000.mp3,with foggy conditions
+CCEF2100.mp3,under hazy skies
+CCEF2110.mp3,with windy conditions
+CCEF2600.mp3,under cloudy skies
+CCEF2800.mp3,under mostly cloudy skies
+CCEF2810.mp3,with windy conditions
+CCEF300.mp3,with strong thunderstorms
+CCEF3000.mp3,under partly cloudy skies
+CCEF3200.mp3,under sunny skies
+CCEF3700.mp3,with some isolated thunderstorms
+CCEF3800.mp3,with scattered thunderstorms
+CCEF3900.mp3,with scattered showers
+CCEF400.mp3,with thunderstorms
+CCEF4000.mp3,with heavy rain
+CCEF4100.mp3,with scattered snow showers
+CCEF4200.mp3,with heavy snow
+CCEF4500.mp3,with a few showers
+CCEF500.mp3,with rain and snow
+CCEF5100.mp3,with sleet and freezing rain
+CCEF5200.mp3,with snow and sleet
+CCEF5300.mp3,with rain and some freezing rain
+CCEF5400.mp3,with snow squalls
+CCEF5700.mp3,with scattered strong thunderstorms
+CCEF5710.mp3,with a few strong thunderstorms
+CCEF600.mp3,with rain and sleet
+CCEF6003.mp3,with morning drizzle
+CCEF6103.mp3,with morning showers
+CCEF6143.mp3,with thunderstorms in the morning
+CCEF6303.mp3,with rain in the morning
+CCEF6403.mp3,with morning rain and snow
+CCEF6703.mp3,with a wintry mix of precipitation in the morning
+CCEF6803.mp3,with morning snow showers
+CCEF6903.mp3,with snow in the morning
+CCEF700.mp3,with a wintry mix of precipitation
+CCEF701.mp3,with a light wintry mix
+CCEF7103.mp3,with showers during the afternoon and evening
+CCEF7143.mp3,with thunder storms during the afternoon and evening
+CCEF7303.mp3,with rain during the afternoon and evening
+CCEF7403.mp3,with rain and snow during the afternoon and evening
+CCEF7404.mp3,with a mix of rain and snow during the afternoon and evening
+CCEF7803.mp3,with snow showers during the afternoon and evening
+CCEF7903.mp3,with snowy conditions
+CCEF800.mp3,with some freezing drizzle
+CCEF8000.mp3,with rain turning to snow
+CCEF8200.mp3,with snow turning to rain
+CCEF8300.mp3,with wintry conditions turning to rain
+CCEF8400.mp3,with snow and freezing rain
+CCEF900.mp3,with drizzle
+CCEF9003.mp3,with morning clouds
+CCSAND.mp3,with a sandstorm nearby
+CCSAND2.mp3,with blowing sand nearby
+CCSH0300.mp3,strong to severe thunderstorms
+CCSH0310.mp3,windy with strong thunderstorms
+CCSH0400.mp3,thunderstorms
+CCSH0402.mp3,thunderstorms some may contain heavy rain
+CCSH0410.mp3,windy with thunderstorms
+CCSH0412.mp3,windy thunderstorms with heavy rain
+CCSH0500.mp3,mix of rain and snow
+CCSH0510.mp3,windy with a mix of rain and snow
+CCSH0600.mp3,mix of rain and sleet
+CCSH0601.mp3,mix of light rain and sleet
+CCSH0610.mp3,windy with rain and sleet
+CCSH0611.mp3,windy with light rain and sleet
+CCSH0700.mp3,wintry mix of precipitation
+CCSH0701.mp3,light wintry mix
+CCSH0710.mp3,windy with a wintry mix of precipitation
+CCSH0711.mp3,windy with a light wintry mix
+CCSH0800.mp3,periods of freezing drizzle
+CCSH0810.mp3,freezing drizzle and windy
+CCSH0850.mp3,freezing drizzle with areas of fog
+CCSH0900.mp3,occasional drizzle
+CCSH0910.mp3,windy with occasional drizzle
+CCSH0950.mp3,drizzle and fog
+CCSH1000.mp3,freezing rain
+CCSH1001.mp3,light freezing rain
+CCSH1002.mp3,heavy freezing rain
+CCSH1010.mp3,freezing rain windy
+CCSH1011.mp3,light freezing rain and windy
+CCSH1012.mp3,windy with freezing rain heavy at times
+CCSH1051.mp3,light freezing rain with areas of fog
+CCSH1100.mp3,showers
+CCSH1110.mp3,windy with showers
+CCSH1140.mp3,cloudy with showers and thunderstorms
+CCSH1170.mp3,windy with showers and thunderstorms
+CCSH1200.mp3,rain
+CCSH1201.mp3,light rain
+CCSH1210.mp3,windy with periods of rain
+CCSH1211.mp3,light rain and windy
+CCSH1240.mp3,rain with a few rumbles of thunder
+CCSH1251.mp3,light rain and fog
+CCSH1270.mp3,rain and wind with a few rumbles of thunder
+CCSH1300.mp3,cloudy with flurries
+CCSH1310.mp3,flurries and windy
+CCSH1400.mp3,snow showers
+CCSH1410.mp3,mostly cloudy and windy with snow showers
+CCSH1600.mp3,snow
+CCSH1601.mp3,light snow
+CCSH1610.mp3,snow and windy
+CCSH1611.mp3,light snow and windy
+CCSH1651.mp3,light snow and fog
+CCSH1800.mp3,sleet
+CCSH1801.mp3,light sleet
+CCSH1810.mp3,windy with sleet
+CCSH1811.mp3,windy with light sleet
+CCSH2000.mp3,areas of fog
+CCSH2010.mp3,windy with areas of fog
+CCSH2100.mp3,hazy
+CCSH2110.mp3,windy and hazy
+CCSH2600.mp3,cloudy
+CCSH2610.mp3,cloudy and windy
+CCSH2800.mp3,mostly cloudy
+CCSH2810.mp3,mostly cloudy and windy
+CCSH300.mp3,strong to severe thunderstorms
+CCSH3000.mp3,partly cloudy
+CCSH3010.mp3,partly cloudy and windy
+CCSH310.mp3,windy with strong thunderstorms
+CCSH3200.mp3,fair
+CCSH3210.mp3,fair and windy
+CCSH3400.mp3,a few clouds
+CCSH3410.mp3,windy with a few clouds
+CCSH3700.mp3,slight chance of a thunderstorm
+CCSH3710.mp3,windy with a possible thunderstorm
+CCSH3800.mp3,scattered thunderstorms
+CCSH3810.mp3,windy with scattered thunderstorms
+CCSH3900.mp3,scattered showers
+CCSH3910.mp3,windy with scattered showers
+CCSH400.mp3,thunderstorms
+CCSH4000.mp3,rain heavy at times
+CCSH4010.mp3,windy with rain heavy at times
+CCSH402.mp3,thunderstorms some may contain heavy rain
+CCSH410.mp3,windy with thunderstorms
+CCSH4100.mp3,snow showers at times
+CCSH4110.mp3,windy with scattered snow showers
+CCSH412.mp3,windy thunderstorms with heavy rain
+CCSH4200.mp3,snow heavy at times
+CCSH4210.mp3,windy with heavy snow
+CCSH4300.mp3,blizzard conditions
+CCSH4400.mp3,not available
+CCSH4500.mp3,a few sprinkles
+CCSH4510.mp3,windy at times a few sprinkles
+CCSH4600.mp3,few showers
+CCSH4610.mp3,windy with a few showers
+CCSH4700.mp3,a few snow showers
+CCSH4710.mp3,windy with a few snow showers
+CCSH4800.mp3,scattered flurries
+CCSH4810.mp3,windy with flurries at times
+CCSH4900.mp3,mix of rain and snow showers
+CCSH4910.mp3,windy mix of rain and snow showers
+CCSH500.mp3,mix of rain and snow
+CCSH5000.mp3,windy with snow and blowing snow
+CCSH510.mp3,windy with a mix of rain and snow
+CCSH5100.mp3,a mix of sleet and freezing rain
+CCSH5101.mp3,light freezing rain and sleet
+CCSH5110.mp3,windy with a mix of freezing rain and sleet
+CCSH5111.mp3,windy mix of light freezing rain and sleet
+CCSH5200.mp3,snow and sleet
+CCSH5210.mp3,windy with snow and sleet
+CCSH5300.mp3,mix of rain and freezing rain
+CCSH5301.mp3,mix of light rain and freezing rain
+CCSH5302.mp3,mix of rain and freezing rain heavy at times
+CCSH5310.mp3,windy a mix of rain and freezing rain
+CCSH5311.mp3,windy a mix of light rain and freezing rain
+CCSH5312.mp3,heavy rain and freezing rain windy
+CCSH5351.mp3,light rain and freezing rain with fog
+CCSH5400.mp3,windy with occasional snow and snow squalls
+CCSH5500.mp3,windy with showers at times
+CCSH5600.mp3,snow a few rumbles of thunder possible
+CCSH5610.mp3,windy with snow and a few rumbles of thunder
+CCSH5700.mp3,scattered strong to severe thunderstorms
+CCSH5710.mp3,windy a chance of strong thunderstorms
+CCSH600.mp3,mix of rain and sleet
+CCSH6000.mp3,drizzle ending early
+CCSH6003.mp3,morning drizzle
+CCSH601.mp3,mix of light rain and sleet
+CCSH6010.mp3,windy with drizzle early
+CCSH6013.mp3,windy with drizzle in the morning
+CCSH610.mp3,windy with rain and sleet
+CCSH6100.mp3,showers ending early
+CCSH6103.mp3,morning showers
+CCSH611.mp3,windy with light rain and sleet
+CCSH6110.mp3,windy showers early
+CCSH6113.mp3,windy with morning showers
+CCSH6140.mp3,showers early maybe a rumble of thunder
+CCSH6143.mp3,morning showers possibly a rumble of thunder
+CCSH6170.mp3,windy with showers early maybe some thunder
+CCSH6200.mp3,thunderstorms early
+CCSH6203.mp3,morning thunderstorms
+CCSH6210.mp3,thunderstorms ending early windy
+CCSH6213.mp3,windy with morning thunderstorms
+CCSH6300.mp3,periods of rain early
+CCSH6301.mp3,periods of light rain early
+CCSH6303.mp3,cloudy with morning rain
+CCSH6304.mp3,light rain in the morning
+CCSH6310.mp3,rain ending early windy at times
+CCSH6311.mp3,light rain early windy
+CCSH6313.mp3,windy periods of rain in the morning
+CCSH6314.mp3,windy with light rain in the morning
+CCSH6400.mp3,a mix of rain and snow early
+CCSH6401.mp3,rain snow showers early
+CCSH6403.mp3,morning rain snow
+CCSH6404.mp3,rain and snow showers in the morning
+CCSH6410.mp3,windy with rain and snow early
+CCSH6411.mp3,rain and snow showers ending early windy
+CCSH6413.mp3,windy rain mixed with snow in the morning
+CCSH6414.mp3,windy morning mix of rain and snow showers
+CCSH6500.mp3,a mix of rain and ice ending early
+CCSH6501.mp3,a mix of light rain and ice early
+CCSH6503.mp3,mix of rain and ice in the morning
+CCSH6504.mp3,morning mix of light rain and ice
+CCSH6510.mp3,windy periods of rain and ice early
+CCSH6511.mp3,windy at times mix of light rain ice early
+CCSH6513.mp3,windy with a mix of rain and ice curly
+CCSH6514.mp3,morning mix of light rain and ice windy
+CCSH6600.mp3,an icy mix girlie
+CCSH6603.mp3,freezing rain and sleet in the morning
+CCSH6610.mp3,windy with freezing rain and sleet early
+CCSH6613.mp3,morning freezing rain and sleet monday at times
+CCSH6700.mp3,a wintry mix early
+CCSH6701.mp3,a light wintry mix ending early
+CCSH6703.mp3,a mix of wintry precipitation early
+CCSH6704.mp3,a light wintry mix in the morning
+CCSH6710.mp3,windy a wintry mix of precipitation early
+CCSH6711.mp3,light wintry mix early windy
+CCSH6713.mp3,windy at times which remix in the morning
+CCSH6714.mp3,windy with a light which remix in the morning
+CCSH6800.mp3,snow showers early
+CCSH6803.mp3,morning snow showers
+CCSH6810.mp3,windy snow showers ending early
+CCSH6813.mp3,windy chance of snow showers in the morning
+CCSH6900.mp3,snow early
+CCSH6901.mp3,periods of light snow early
+CCSH6903.mp3,morning snow
+CCSH6904.mp3,light snow in the morning
+CCSH6910.mp3,snow early windy at times
+CCSH6911.mp3,windy with light snow early
+CCSH6913.mp3,windy with morning snow
+CCSH6914.mp3,light snow in the morning windy
+CCSH700.mp3,wintry mix of precipitation
+CCSH7000.mp3,occasional late night drizzle
+CCSH7003.mp3,occasional drizzle during the afternoon
+CCSH701.mp3,light wintry mix
+CCSH7010.mp3,windy with drizzle late
+CCSH7013.mp3,afternoon drizzle windy
+CCSH710.mp3,windy with a wintry mix of precipitation
+CCSH7100.mp3,showers late
+CCSH7103.mp3,afternoon showers
+CCSH711.mp3,windy with a light wintry mix
+CCSH7110.mp3,windy with showers late
+CCSH7113.mp3,windy chance of late day showers
+CCSH7140.mp3,showers and possibly some thunder overnight
+CCSH7143.mp3,afternoon thunder showers
+CCSH7170.mp3,late night thunder showers windy
+CCSH7173.mp3,windy afternoon thunder showers
+CCSH7200.mp3,late night thunderstorms
+CCSH7203.mp3,thunderstorms developing in the afternoon
+CCSH7210.mp3,windy with thunderstorms late
+CCSH7213.mp3,afternoon thunderstorms developing windy
+CCSH7300.mp3,rain developing late
+CCSH7301.mp3,light rain developing late
+CCSH7303.mp3,rain developing during the afternoon
+CCSH7304.mp3,light rain developing in the afternoon
+CCSH7310.mp3,windy with late night rain
+CCSH7311.mp3,windy light rain late
+CCSH7313.mp3,windy with rain developing in the afternoon
+CCSH7314.mp3,afternoon light rain at times windy
+CCSH7400.mp3,rain and snow developing overnight
+CCSH7401.mp3,rain and snow showers overnight
+CCSH7403.mp3,rain mixed with snow during the afternoon
+CCSH7404.mp3,late day rain and snow showers
+CCSH7410.mp3,windy with late night rain and snow
+CCSH7411.mp3,windy rain and snow showers late
+CCSH7413.mp3,windy rain mixed with snow in the afternoon
+CCSH7414.mp3,windy with afternoon rain and snow showers
+CCSH7500.mp3,rain mixing with ice overnight
+CCSH7501.mp3,mix of light rain and ice overnight
+CCSH7503.mp3,a mix of ice and rain developing by afternoon
+CCSH7504.mp3,light rain ice developing during the afternoon
+CCSH7510.mp3,windy with rain and ice overnight
+CCSH7511.mp3,windy with light rain ice overnight
+CCSH7513.mp3,windy a mix of rain and ice in the afternoon
+CCSH7514.mp3,windy afternoon mix of light rain ice
+CCSH7600.mp3,late night freezing rain and sleet
+CCSH7603.mp3,an icy mix developing during the afternoon
+CCSH7610.mp3,windy with an icy mix developing overnight
+CCSH7613.mp3,windy with afternoon freezing rain or sleet
+CCSH7700.mp3,wintry mix developing overnight
+CCSH7701.mp3,light wintry mix developing overnight
+CCSH7703.mp3,afternoon wintry mix
+CCSH7704.mp3,afternoon light wintry mix
+CCSH7710.mp3,windy with a wintry mix developing overnight
+CCSH7711.mp3,light wintry mix developing overnight windy
+CCSH7713.mp3,windy afternoon wintry mix developing
+CCSH7714.mp3,windy with afternoon light wintry mix
+CCSH7800.mp3,chance of snow showers overnight
+CCSH7803.mp3,snow showers developing in the afternoon
+CCSH7810.mp3,windy with late night snow showers
+CCSH7813.mp3,windy with afternoon snow showers
+CCSH7900.mp3,snow developing overnight
+CCSH7901.mp3,light snow overnight
+CCSH7903.mp3,snow developing during the afternoon
+CCSH7904.mp3,light snow developing in the afternoon
+CCSH7910.mp3,windy snow developing overnight
+CCSH7911.mp3,windy light snow overnight
+CCSH7913.mp3,periods of snow during the afternoon windy
+CCSH7914.mp3,windy light snow during the afternoon
+CCSH800.mp3,periods of freezing drizzle
+CCSH8000.mp3,rain changing to snow
+CCSH8010.mp3,windy with rain changing to snow
+CCSH810.mp3,freezing drizzle and windy
+CCSH8100.mp3,rain changing to ice
+CCSH8110.mp3,windy with rain changing to ice
+CCSH8200.mp3,snow changing to rain
+CCSH8210.mp3,windy snow changing to rain
+CCSH8300.mp3,a mix of snow and ice changing to rain
+CCSH8310.mp3,windy a mix of snow and ice changing to rain
+CCSH8400.mp3,snow changing to ice
+CCSH8410.mp3,windy at times snow changing to ice
+CCSH850.mp3,freezing drizzle with areas of fog
+CCSH8500.mp3,ice changing to rain
+CCSH8510.mp3,ice changing to rain windy at times
+CCSH8600.mp3,ice changing to snow
+CCSH8610.mp3,ice changing to snow windy
+CCSH8700.mp3,snow sleet and ice changing to all snow
+CCSH8710.mp3,a wintry mix changing to all snow windy
+CCSH8800.mp3,snow changing to wintry mix
+CCSH8810.mp3,windy snow changing to wintry mix
+CCSH8900.mp3,a wintry mix changing to rain
+CCSH8910.mp3,windy a wintry mix changing to rain
+CCSH900.mp3,occasional drizzle
+CCSH9000.mp3,skies clearing overnight
+CCSH9003.mp3,clouds giving way to sun in the afternoon
+CCSH9010.mp3,windy with clouds early then clearing late
+CCSH9013.mp3,windy with morning clouds then afternoon sun
+CCSH910.mp3,windy with occasional drizzle
+CCSH9100.mp3,some late clearing after areas of fog early
+CCSH9103.mp3,morning fog followed by afternoon sun
+CCSH9110.mp3,windy with fog early partial clearing by morning
+CCSH9113.mp3,windy morning fog giving way to sun late
+CCSH9200.mp3,areas of fog early then cloudy
+CCSH9210.mp3,areas of fog early then cloudy and windy
+CCSH9213.mp3,morning fog then cloudy and windy
+CCSH9300.mp3,fog developing overnight
+CCSH9303.mp3,areas of fog developing late in the day
+CCSH9310.mp3,windy with areas of fog developing late
+CCSH9313.mp3,areas of fog late in the day windy at times
+CCSH950.mp3,drizzle and fog
+CCSH9500.mp3,bring to start then changing to a wintry mix
+CCSH9510.mp3,windy with rain changing to a wintry mix
+CCSHOWERS.mp3,with showers nearby
+CCSHOWERS2.mp3,with showers nearby and foggy conditions
+CCSHOWERS3.mp3,with showers nearby and windy conditions
+CCSNOW.mp3,with blowing snow nearby
+CCTHUNDER.mp3,with thunderstorms in the area
+CC_INTRO1.mp3,currently the temperature is
+CC_INTRO2.mp3,currently in our area
+M1.mp3,minus one degree
+M10.mp3,minus ten degrees
+M11.mp3,minus eleven degrees
+M12.mp3,minus twelve degrees
+M13.mp3,minus thirteen degrees
+M14.mp3,minus fourteen degrees
+M15.mp3,minus fifteen degrees
+M16.mp3,minus sixteen degrees
+M17.mp3,minus seventy degrees
+M18.mp3,minus eighteen degrees
+M19.mp3,minus nineteen degrees
+M2.mp3,minus two degrees
+M20.mp3,minus twenty degrees
+M21.mp3,minus twenty one degrees
+M22.mp3,minus twenty two degrees
+M23.mp3,minus twenty three degrees
+M24.mp3,minus twenty four degrees
+M25.mp3,minus twenty five degrees
+M26.mp3,minus twenty six degrees
+M27.mp3,minus twenty seven degrees
+M28.mp3,minus twenty eight degrees
+M29.mp3,minus twenty nine degrees
+M3.mp3,minus three degrees
+M30.mp3,minus thirty degrees
+M31.mp3,minus thirty one degrees
+M32.mp3,minus thirty two degrees
+M33.mp3,minus thirty three degrees
+M34.mp3,minus thirty four degrees
+M35.mp3,minus thirty five degrees
+M36.mp3,minus thirty six degrees
+M37.mp3,minus thirty seven degrees
+M38.mp3,minus thirty eight degrees
+M39.mp3,minus thirty nine degrees
+M4.mp3,minus four degrees
+M40.mp3,minus forty degrees
+M41.mp3,minus forty one degrees
+M42.mp3,minus forty two degrees
+M43.mp3,minus forty three degrees
+M44.mp3,minus forty four degrees
+M45.mp3,minus forty five degrees
+M46.mp3,minus forty six degrees
+M47.mp3,minus forty seven degrees
+M48.mp3,minus forty eight degrees
+M49.mp3,minus forty nine degrees
+M5.mp3,minus five degrees
+M50.mp3,minus fifty degrees
+M51.mp3,minus fifty one degrees
+M52.mp3,minus fifty two degrees
+M53.mp3,minus fifty three degrees
+M54.mp3,minus fifty four degrees
+M55.mp3,minus fifty five degrees
+M56.mp3,minus fifty six degrees
+M57.mp3,minus fifty seven degrees
+M58.mp3,minus fifty eight degrees
+M59.mp3,minus fifty nine degrees
+M6.mp3,minus six degrees
+M60.mp3,minus sixty degrees
+M61.mp3,minus sixty one degrees
+M62.mp3,minus sixty two degrees
+M63.mp3,minus sixty three degrees
+M64.mp3,minus sixty four degrees
+M65.mp3,minus sixty five degrees
+M66.mp3,minus sixty six degrees
+M67.mp3,minus sixty seven degrees
+M68.mp3,minus sixty eight degrees
+M69.mp3,minus sixty nine degrees
+M7.mp3,minus seven degrees
+M70.mp3,minus seventy degrees
+M71.mp3,minus seventy one degrees
+M72.mp3,minus seventy two degrees
+M73.mp3,minus seventy three degrees
+M74.mp3,minus seventy four degrees
+M75.mp3,minus seventy five degrees
+M76.mp3,minus seventy six degrees
+M77.mp3,minus seventy seven degrees
+M78.mp3,minus seventy eight degrees
+M79.mp3,minus seventy nine degrees
+M8.mp3,minus eight degrees
+M80.mp3,minus eighty degrees
+M81.mp3,minus eighty one degrees
+M82.mp3,minus eighty two degrees
+M83.mp3,minus eighty three degrees
+M84.mp3,minus eighty four degrees
+M85.mp3,minus eighty five degrees
+M86.mp3,minus eighty six degrees
+M87.mp3,minus eighty seven degrees
+M88.mp3,minus eighty eight degrees
+M89.mp3,minus eighty nine degrees
+M9.mp3,minus nine degrees
+M90.mp3,minus ninety degrees
+M91.mp3,minus ninety one degrees
+M92.mp3,minus ninety two degrees
+M93.mp3,minus ninety three degrees
+M94.mp3,minus ninety four degrees
+M95.mp3,minus ninety five degrees
+M96.mp3,minus ninety six degrees
+M97.mp3,minus ninety seven degrees
+M98.mp3,minus ninety eight degrees
+M99.mp3,minus ninety nine degrees
+Zero.mp3,zero degrees
+Zeros.mp3,zero degrees
+
